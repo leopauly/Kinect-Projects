@@ -1,0 +1,11 @@
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\bin\Debug\KinectSkeletonApplication1.exe
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\bin\Debug\KinectSkeletonApplication1.pdb
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\MainWindow.baml
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\MainWindow.g.cs
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\App.g.cs
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1_MarkupCompile.cache
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.g.resources
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.Properties.Resources.resources
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.csproj.GenerateResource.Cache
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.exe
+E:\Hacker & Maker\skeleton\Image+skeleton\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.pdb
